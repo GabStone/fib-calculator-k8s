@@ -1,4 +1,4 @@
-# Fibonacci Calculator
+# Fibonacci Calculator K8S
 Overly complex Fibonacci Calculator for learning purposes 
 
 ##
@@ -22,13 +22,8 @@ Overly complex Fibonacci Calculator for learning purposes
 - `docker-compose up --build`
 - Navigate to localhost:3050
 
-### Nginx Server
-- Nginx
-- Upstream routing: 
-    - React client
-    - Express Server 
 
 ## Version
-Version: 0.0.2
+Version: 0.0.3
 
 Created By Gabriel Stone (@GabStone)
