@@ -24,6 +24,6 @@ Overly complex Fibonacci Calculator for learning purposes
 
 
 ## Version
-Version: 0.0.3
+Version: 0.0.4
 
 Created By Gabriel Stone (@GabStone)
