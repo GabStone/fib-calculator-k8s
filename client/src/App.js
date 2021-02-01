@@ -8,10 +8,10 @@ import Fib from './fib';
 function App() {
   return (
       <Router>
-        <div className="App">Fib Calculator K8S
+        <div className="App">
           <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
-            <Link to="/">Home</Link>
+            <Link to="/">Home - Fib Calculator K8S</Link>
             <Link to="/otherPage" >Other Page</Link>
 
             <div>
